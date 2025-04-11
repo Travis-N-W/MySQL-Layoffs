@@ -52,14 +52,16 @@ Carried out comprehensive data analysis on a dataset of worldwide company layoff
 
 ## Summary of Findings
 
-- The workforce has a higher representation of male employees.  
-- The majority of employees identify as White, while Native Hawaiian and American Indian groups are the least represented.  
-- Employee ages range from 22 to 59 years old.  
-- Employees were categorized into five age groups (18–24, 25–34, 35–44, 45–54, 55–64); the 25–34 and 35–44 groups represent the largest segments, while the 55–64 group is the smallest.  
-- A significant portion of the workforce is based at the headquarters, with fewer employees working remotely.  
-- The average tenure of terminated employees is approximately 8 years.  
-- Gender distribution is relatively balanced across departments, though males slightly outnumber females overall.  
-- The Auditing department exhibits the highest turnover rate, followed by the Legal department. Departments such as Marketing, Business Development, and Product Management have the lowest turnover rates.  
-- The highest concentration of employees is located in the state of Ohio.  
-- Net employee count has shown a positive trend, with an overall increase over recent years.  
-- The average tenure across departments is around 8 years, with Marketing and Sales showing the highest tenure, and Legal and Product Management reflecting the lowest.  
+- The dataset covers over 250,000 layoffs across various industries globally.  
+- The majority of layoffs occurred between 2022 and 2023, with a sharp peak in late 2022.
+- Post-IPO and Late Stage-Venture companies contributed the highest number of layoffs.  
+- Early-stage startups had fewer layoffs in terms of volume but higher as a proportion of their workforce.
+- The tech sector dominated layoff numbers, with sub-sectors like consumer tech, retail tech, and fintech being heavily affected.  
+- Transportation and healthcare sectors also reported noticeable layoff activity.
+- Several companies with substantial funding (over $500M) still conducted large-scale layoffs, indicating that high capital doesn’t necessarily safeguard against downsizing.  
+- A pattern emerged where companies that raised significant rounds during 2020–2021 were among those laying off aggressively in 2022–2023.
+- North America, particularly the United States, accounted for the highest layoff volume.  
+- Notable spikes in layoffs were also observed in India and parts of Europe, especially among tech startups.
+- The largest spike in layoffs occurred in November 2022.  
+- A gradual decline is visible into mid-2023, suggesting stabilization.
+- A handful of large tech companies were responsible for a disproportionate share of total layoffs (e.g., Meta, Amazon, Microsoft).  
