@@ -1,0 +1,296 @@
+industry,stage,total_layoffs
+Consumer,Post-IPO,32010
+Retail,Post-IPO,31763
+Other,Post-IPO,29602
+Transportation,Post-IPO,20747
+Healthcare,Post-IPO,15884
+Hardware,Post-IPO,12898
+Finance,Post-IPO,11851
+Sales,Post-IPO,11478
+Consumer,Unknown,7018
+Travel,Acquired,6561
+"Real Estate",Unknown,6534
+Crypto,Unknown,5632
+"Real Estate",Post-IPO,5552
+Fitness,Post-IPO,5184
+Infrastructure,Post-IPO,4985
+Finance,Unknown,4027
+Education,"Private Equity",4027
+Food,Post-IPO,3587
+Travel,Post-IPO,3389
+Food,Unknown,3387
+Education,Acquired,3348
+Marketing,Post-IPO,2936
+Data,Post-IPO,2842
+Marketing,Acquired,2738
+Construction,Unknown,2614
+Transportation,"Series J",2600
+Food,"Series C",2553
+Consumer,Acquired,2507
+Food,"Series H",2490
+Finance,"Series B",2467
+Healthcare,"Series C",2434
+Food,"Series B",2394
+Transportation,Unknown,2332
+Media,Post-IPO,2319
+Retail,Acquired,2304
+Food,"Series I",2285
+Other,"Series C",2273
+Transportation,"Series D",2255
+Crypto,Post-IPO,2180
+Travel,"Private Equity",2044
+Transportation,Acquired,1999
+Retail,"Series C",1993
+Security,Post-IPO,1922
+Retail,Unknown,1899
+Travel,"Series F",1850
+Finance,"Series C",1839
+Finance,"Series D",1809
+Support,Post-IPO,1806
+Retail,"Series D",1781
+Marketing,"Series C",1679
+Finance,"Series G",1656
+Consumer,"Series E",1610
+"Real Estate","Series C",1549
+Healthcare,"Series F",1549
+Healthcare,"Series D",1517
+Fitness,"Series D",1517
+Education,"Series H",1500
+Education,"Series E",1488
+Retail,"Series B",1478
+Food,Acquired,1467
+Finance,"Series E",1437
+Other,"Series D",1387
+Food,"Series F",1300
+Security,"Series C",1278
+Recruiting,Acquired,1260
+Travel,"Series D",1250
+Finance,"Series H",1212
+Logistics,"Series E",1130
+Logistics,"Series F",1100
+Other,Acquired,1009
+"Real Estate","Series B",948
+Hardware,Unknown,930
+Transportation,"Series B",928
+Healthcare,"Series E",892
+Marketing,"Series D",870
+"Real Estate","Series H",850
+Healthcare,"Series B",849
+Healthcare,Unknown,845
+Marketing,Unknown,838
+Media,Unknown,832
+Logistics,"Series D",827
+Retail,"Series F",823
+Education,"Series A",821
+Other,"Series B",818
+Travel,Unknown,814
+"Real Estate","Series D",802
+Retail,"Series E",799
+"Real Estate","Series E",799
+Education,"Series D",795
+Fitness,Acquired,784
+HR,Post-IPO,770
+Finance,"Series A",756
+Travel,"Series B",709
+Security,"Series F",698
+Transportation,"Series F",684
+Healthcare,"Series H",665
+Aerospace,Unknown,661
+Food,"Series A",625
+Crypto,"Series A",620
+Food,"Series J",620
+Food,"Series D",610
+Support,Acquired,609
+Transportation,"Series G",600
+Crypto,"Series D",598
+Security,Acquired,583
+Crypto,"Series C",511
+Education,"Series B",507
+HR,"Series E",507
+Marketing,"Series B",506
+Consumer,"Series H",500
+Healthcare,Acquired,486
+Media,Acquired,479
+Finance,"Series F",478
+Data,"Series E",475
+Retail,"Series A",456
+Energy,"Series E",450
+Food,"Series E",446
+Finance,"Private Equity",437
+Recruiting,"Series B",435
+Other,Unknown,418
+Consumer,"Series B",416
+Fitness,"Series E",416
+Construction,"Series B",409
+Construction,"Series E",400
+Crypto,Acquired,390
+Support,"Series C",382
+Data,"Series A",379
+"Real Estate","Series G",375
+Media,"Series F",374
+Finance,Acquired,370
+Food,Seed,369
+Food,"Series G",367
+Travel,"Series C",364
+HR,"Series C",363
+Data,"Series D",363
+Transportation,"Series I",360
+Transportation,"Series C",355
+Food,Subsidiary,355
+Security,Unknown,354
+Support,"Series D",354
+Sales,"Series G",351
+Marketing,"Series E",350
+Logistics,"Series C",342
+Recruiting,"Series C",342
+Media,"Series B",336
+Recruiting,"Series D",331
+Healthcare,"Series A",328
+Security,"Series D",324
+HR,"Series B",317
+Fitness,"Series C",317
+Education,Unknown,315
+Media,"Series D",305
+Fitness,"Private Equity",300
+Legal,"Series D",300
+Other,Subsidiary,300
+Product,"Series F",299
+Transportation,Subsidiary,289
+Sales,"Private Equity",283
+Healthcare,NULL,282
+Crypto,"Series E",280
+Education,Seed,270
+Security,"Series B",270
+Media,"Series C",263
+HR,"Series D",262
+Transportation,"Series E",258
+Data,"Series B",258
+Consumer,"Series F",250
+Marketing,"Series A",249
+Construction,"Series D",240
+Security,"Series E",235
+Sales,"Series E",230
+Product,"Series C",227
+Crypto,"Series B",223
+Recruiting,"Series A",223
+Legal,"Private Equity",219
+Infrastructure,Unknown,216
+Data,Unknown,214
+Consumer,"Series D",211
+Data,"Series C",200
+Sales,Acquired,200
+Consumer,"Series G",194
+Support,"Series B",191
+Sales,"Series B",190
+Consumer,"Series C",188
+Logistics,Unknown,183
+Education,Post-IPO,176
+Product,"Series D",172
+Infrastructure,"Series D",170
+HR,"Series A",166
+Sales,"Series F",165
+Healthcare,Seed,163
+Product,"Series B",163
+Consumer,"Series I",160
+Logistics,"Series B",159
+Legal,"Series B",150
+Logistics,Subsidiary,150
+Media,"Series J",150
+Recruiting,Unknown,145
+Construction,Seed,140
+Product,Unknown,139
+Energy,"Series C",135
+Logistics,"Series A",135
+HR,Unknown,131
+Data,"Private Equity",130
+Product,Post-IPO,130
+Security,"Private Equity",125
+Fin-Tech,"Series C",125
+Data,Acquired,124
+Retail,Seed,123
+Other,"Series E",120
+Infrastructure,"Series B",120
+Energy,"Series D",120
+Sales,"Series C",119
+Retail,"Private Equity",110
+Crypto,"Private Equity",110
+Sales,Unknown,107
+HR,Seed,105
+Crypto,Seed,105
+Fitness,Unknown,105
+Other,Seed,104
+Transportation,"Series A",101
+Security,Seed,100
+HR,Acquired,99
+Other,"Series A",98
+Energy,"Series A",97
+Fitness,"Series F",95
+Infrastructure,Acquired,92
+Education,"Series C",91
+Travel,"Series E",90
+Consumer,"Series A",90
+Security,"Series A",90
+"Real Estate","Series A",88
+Travel,"Series A",88
+Retail,"Series G",84
+Data,"Series F",80
+Other,"Series F",80
+Product,"Series A",78
+Support,"Series E",76
+Legal,"Series E",75
+Data,"Series G",70
+Fin-Tech,"Series B",70
+Media,"Series A",69
+"Real Estate",Acquired,68
+Infrastructure,"Series C",65
+Legal,Post-IPO,62
+Construction,"Series A",60
+Media,"Series E",57
+Infrastructure,"Series E",57
+Sales,"Series D",55
+Marketing,"Private Equity",53
+Media,"Series I",50
+Infrastructure,"Series F",50
+Support,Seed,49
+Crypto,"Series F",44
+HR,NULL,40
+Transportation,"Private Equity",40
+Marketing,Seed,39
+Recruiting,"Private Equity",39
+Infrastructure,Seed,30
+Fitness,"Series A",30
+Legal,"Series C",30
+Support,"Private Equity",30
+Consumer,Seed,28
+Sales,"Series H",27
+Support,Unknown,26
+Manufacturing,"Series E",20
+Fin-Tech,"Series A",20
+Product,Acquired,19
+HR,"Series F",13
+Sales,"Series A",11
+HR,"Private Equity",10
+Product,Seed,6
+Finance,Seed,5
+Aerospace,Post-IPO,NULL
+NULL,Post-IPO,NULL
+Travel,Seed,NULL
+HR,"Series G",NULL
+Marketing,NULL,NULL
+Legal,Seed,NULL
+Media,Seed,NULL
+Transportation,Seed,NULL
+Infrastructure,"Series A",NULL
+Hardware,"Series B",NULL
+Energy,"Series B",NULL
+Construction,Post-IPO,NULL
+Construction,Acquired,NULL
+Other,"Private Equity",NULL
+Media,"Private Equity",NULL
+Recruiting,Seed,NULL
+Logistics,Seed,NULL
+Energy,Unknown,NULL
+Marketing,"Series F",NULL
+Energy,Post-IPO,NULL
+Fitness,Seed,NULL
+Food,NULL,NULL
